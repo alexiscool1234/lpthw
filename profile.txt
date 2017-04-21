@@ -1,4 +1,0 @@
-Sex: Male
-Name: Alex
-Height: 6'1
-Weight: 180
